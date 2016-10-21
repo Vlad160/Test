@@ -9,7 +9,7 @@ public class main {
         int x,n = 1,k;
         final double PI = 3.1415926535;
         Scanner in = new Scanner(System.in);
-        System.out.print("Введите точность");
+        System.out.print("Введите точноdсть");
         k = in.nextInt();
         exp = Math.pow(10,-k);
         System.out.print("Введите x(в градусах)");
